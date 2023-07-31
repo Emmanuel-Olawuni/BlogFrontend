@@ -1,0 +1,38 @@
+.social-links{
+    display: flex;
+    gap: 20px;
+    color: white;
+    font-size: 22px;
+}
+.footer-navlinks a{
+    color: #959EAD;
+   
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    
+}
+.footer-navlinks {
+    gap: 1.4em;
+}
+.footer-navlinks p {
+    color: #959EAD;
+   
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+.footer-sec p {
+    color: #959EAD;
+   
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    
+}
+.footer-navlinks a:hover{
+    text-decoration: underline;
+    opacity: 1;
+    color: white;
+}

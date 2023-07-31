@@ -1,0 +1,15 @@
+.article-card-container {
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 30em;
+
+  border-radius: 10px;
+
+}
+.article-tag{
+  text-transform: uppercase;
+  width: fit-content;
+  padding: 6px;
+  font-size: 12px;
+}
