@@ -19,7 +19,7 @@ function App() {
         <Newsletter />
       </main>
       <footer>
-        <Footer gi/>
+        <Footer />
       </footer>
     </>
   );
